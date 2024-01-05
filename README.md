@@ -9,7 +9,7 @@ So, this project aims to create a console app to start fundraise projects.
 The app should include the following features:
 1 - Authentication System:
 
-• Registration:
+<br>• Registration:
     • First name
     • Last name
     • Email
