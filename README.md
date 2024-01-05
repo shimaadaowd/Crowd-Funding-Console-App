@@ -9,7 +9,9 @@ So, this project aims to create a console app to start fundraise projects.
 The app should include the following features:
 <br>
 1 - Authentication System:
-<br>• Registration:
+
+• Registration:
+    
     • First name
     
     • Last name
@@ -22,7 +24,7 @@ The app should include the following features:
     
     • Mobile phone [validated against Egyptian phone numbers]
     
-    • Login
+• Login:
     
     • The user should be able to login after activation using his email and password
     
