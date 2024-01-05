@@ -7,8 +7,8 @@ Crowdfunding is the practice of funding a project or venture by raising small am
 So, this project aims to create a console app to start fundraise projects.
 
 The app should include the following features:
+<br>
 1 - Authentication System:
-
 <br>• Registration:
     • First name
     • Last name
